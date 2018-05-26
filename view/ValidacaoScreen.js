@@ -1,4 +1,6 @@
-class ValidacaoScreen extends React.Component {
+import React from 'react';
+
+export class ValidacaoScreen extends React.Component {
   static navigationOptions = {
     headerTitle: <LogoTitle />,
     headerRight: (

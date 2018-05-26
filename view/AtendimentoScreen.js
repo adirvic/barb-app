@@ -1,4 +1,6 @@
-class AtendimentoScreen extends React.Component {
+import React from 'react';
+
+export class AtendimentoScreen extends React.Component {
   static navigationOptions = {
     headerTitle: <LogoTitle />,
     headerRight: (

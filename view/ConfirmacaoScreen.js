@@ -1,4 +1,6 @@
-class ConfirmacaoScreen extends React.Component {
+import React from 'react';
+
+export class ConfirmacaoScreen extends React.Component {
   // static navigationOptions = ({ navigation, navigationOptions }) => {
   //   const { params } = navigation.state;
   //

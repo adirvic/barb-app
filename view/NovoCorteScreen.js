@@ -1,4 +1,6 @@
-class NovoCorteScreen extends React.Component {
+import React from 'react';
+
+export class NovoCorteScreen extends React.Component {
   static navigationOptions = {
     headerTitle: <LogoTitle />,
     headerRight: (

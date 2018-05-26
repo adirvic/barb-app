@@ -1,4 +1,6 @@
-class AtendimentoHoraScreen extends React.Component {
+import React from 'react';
+
+export class AtendimentoHoraScreen extends React.Component {
   static navigationOptions = {
     headerTitle: <LogoTitle />,
     headerRight: (

@@ -1,4 +1,6 @@
-class BarbeiroScreen extends React.Component {
+import React from 'react';
+
+export class BarbeiroScreen extends React.Component {
   static navigationOptions = {
     headerTitle: <LogoTitle />,
     headerRight: (
